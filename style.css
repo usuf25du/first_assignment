@@ -15,6 +15,10 @@ h1 {
 .para_container {
     display: flex;
     margin-bottom: 50px;
+    margin-top: 10px;
+    width: 80%;
+    padding-left: 5%;
+}
 
 }
 
@@ -45,13 +49,13 @@ h1 {
 
 .light_skyblue {
     background-color: lightskyblue;
-    background-image: element(images/illustrators/illustrator-1.png);
+
 }
 
-.para_container {
-    width: 80%;
-    padding-left: 5%;
+b {
+    text-align: center;
 }
+
 
 .one_third {
     width: 33%;
