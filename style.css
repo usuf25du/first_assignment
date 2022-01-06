@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 
 }
 
@@ -71,9 +72,12 @@ section {
     height: 120px;
     margin-left: 20px;
     margin-right: 15px;
+    border-radius: 10px;
 }
 
 .foot {
     color: white;
+
+
 
 }
