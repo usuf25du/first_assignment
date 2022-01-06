@@ -10,6 +10,12 @@ h1 {
 
 }
 
+#border_left {
+    border-left: 8px solid;
+    border-image: linear-gradient(rgb(255, 0, 0), rgb(218, 186, 8));
+    border-image-slice: 1;
+}
+
 .head_color {
     color: tomato;
 }
